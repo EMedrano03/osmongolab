@@ -1,5 +1,6 @@
-# osmongolab
-## Es importante que el participante tenga una maquina virtualizada con Linux (No importa la distro)
+# OpenSaturday
+## Laboratorio MongoDB
+### Es importante que el participante tenga una maquina virtualizada con Linux (No importa la distro)
 
 
 1. Crear directorio /opensaturday 
