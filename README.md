@@ -59,7 +59,7 @@ Usaremos la version 1.15.1 (Stable) sobre ubuntu 16.04 Desktop
 
 Se puede descargar desde https://www.mongodb.com/download-center?jmp=hero#compass
 
-
+*Si usas Windows, igual puedes elegir el instalador para Windows*
 
 
 
