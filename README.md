@@ -51,7 +51,7 @@ sudo mkdir -p logs/log01 logs/log02 logs/03
 sudo mkdir -p run/run01 run/run02 run/run03
 
 
-**8. En este repositorio existen 3 archivos llamados mongod01.conf, mongodb02.conf y mongodb03.conf. Debe descargar dichos archivos y colocarlos dentro del directorio /opensaturday/etc**
+**8. En este repositorio existen 3 archivos dentro de etc llamados mongod01.conf, mongodb02.conf y mongodb03.conf. Debes descargar dichos archivos y colocarlos dentro del directorio /opensaturday/etc**
 
 
 
