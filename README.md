@@ -53,5 +53,13 @@ Ahora procedemos a renombrar dicho directorio
 
 **8. En este repositorio existen 3 archivos dentro de etc llamados mongod01.conf, mongodb02.conf y mongodb03.conf. Debes descargar dichos archivos y colocarlos dentro del directorio /opensaturday/etc**
 
+## MongoDB Compasss
+
+Usaremos la version 1.15.1 (Stable) sobre ubuntu 16.04 Desktop
+
+Se puede descargar desde https://www.mongodb.com/download-center?jmp=hero#compass
+
+
+
 
 
